@@ -1,0 +1,19 @@
+{
+  "name": "witchcarft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "witchcarft"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}

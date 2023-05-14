@@ -1,0 +1,29 @@
+
+
+// #2C1062
+// #111112
+// #FBE9D7
+// #F2CD87
+// #DF4224
+// #BBA187
+// #82686C
+// #392A23
+// #D169A7
+// #6E4633
+// including variables and mixins
+@import "theme/variables";
+@import "theme/mixins";
+@import "theme/predefine";
+@import "theme/reset";
+
+
+// Custom Scss 
+@import "theme/elements";
+@import "theme/header";
+@import "theme/banner";
+@import "theme/home";
+@import "theme/common";
+@import "theme/product";
+@import "theme/blog";
+@import "theme/contact";
+@import "theme/footer";
